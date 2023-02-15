@@ -6,11 +6,6 @@
 - 📫 Contato: emersonjuniormt@gmail.com
 - 🎂 Idade: 23 Anos
 
-<div align="center">
-  <a href="https://github.com/Emerson05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson05&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Emerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
