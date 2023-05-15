@@ -2,7 +2,6 @@
 
 
 
-- 🌱 Estudando javascript e Postgresql.
 - 📫 Contato: emersonjuniormt@gmail.com
 - 🎂 Idade: 23 Anos
 
