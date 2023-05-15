@@ -10,6 +10,8 @@
   <a href="https://github.com/Emerson05">
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson05&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson05&layout=compact&langs_count=7&exclude_repo=repo1,repo2,repo3&theme=dark"/>
+
 </div>
 
 <div style="display: inline_block"><br>
