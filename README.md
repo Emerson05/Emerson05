@@ -24,7 +24,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-junior05/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emerson05&bg_color=201e1e&color=e3e3e3&line=79ff97&point=eff1ef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
   
  
